@@ -49,6 +49,7 @@ function loadNextQuestion () {
 		
 		var finishButton = document.getElementById('finishButton').onclick = newGame;
 		kraj.textContent = newGame;
+		container.style.display = '';
 		return;
 	}
 	loadQuestion(currentQuestion);
