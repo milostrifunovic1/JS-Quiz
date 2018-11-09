@@ -105,7 +105,6 @@ body{
 
 @media only screen and (max-width: 600px){
     body{
-	width: 100%;    
         background: #309699	no-repeat  center fixed;
     }
     .container{
