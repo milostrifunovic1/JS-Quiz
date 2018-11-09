@@ -109,6 +109,7 @@ body{
     }
     .container{
         width: 90%;
+	position: relative;    
         margin: auto;
     }
     .title{
