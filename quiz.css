@@ -82,7 +82,7 @@ body{
     	box-shadow: 0 0 0 2px #dbc978;
 }
 
-#result{
+.result{
    	position: relative;
    	margin: auto;
     	margin-top: 200px;
@@ -118,6 +118,7 @@ body{
     }
     .option{
         width: 90%;
+	display: block;
     }
     .question{
         width: 90%;
@@ -126,7 +127,7 @@ body{
     .next-btn{
         width: 70%;
     }
-    #result{
+    .result{
         width: 90%;
         font-size: 45px;
         margin-top: 50px;
